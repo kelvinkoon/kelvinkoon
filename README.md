@@ -1,6 +1,6 @@
 ## Hey, I'm Kelvin! 👋
 
-I'm currently a 4th year :zap: Electrical Engineering student at the University of British Columbia. 
+I'm currently a 4th year :zap: Engineering student at the University of British Columbia. 
 
 Particularly interested in robotics, distributed systems, and helping others!
 
@@ -12,7 +12,7 @@ Particularly interested in robotics, distributed systems, and helping others!
 ### When I'm not coding
 - Photographing hackathons and gaming tournaments
 - Figure skating at the nearest rink
-- Volunteering with STEM outreach
+- Volunteering with STEM outreach events
 
 ### Ping me
 on either [Twitter](https://twitter.com/NotCelsiusDeg), [LinkedIn](https://www.linkedin.com/in/kelvinkoon/), or [my website](http://kelvinkoon.github.io/)
