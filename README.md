@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey, I'm Kelvin! 👋
 
-<!--
-**kelvinkoon/kelvinkoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a 4th year :zap: Electrical Engineering student at the University of British Columbia. 
 
-Here are some ideas to get you started:
+Particularly interested in robotics, distributed systems, and helping others!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I do
+- Finishing up my internship at Huawei on the Mobile Security Lab R&D Team
+- Working on defending our RoboCup title with [@UBC-Thunderbots](https://github.com/UBC-Thunderbots/Software)
+- Maintaining [babiri.net](https://www.babiri.net/#/) and my other projects
+
+#### When I'm not coding
+- Photographing hackathons and gaming tournaments
+- Figure skating at the nearest rink
+- Volunteering with STEM outreach
+
+#### Ping me
+on either [Twitter](https://twitter.com/NotCelsiusDeg), [LinkedIn](https://www.linkedin.com/in/kelvinkoon/), or [my website](http://kelvinkoon.github.io/)
