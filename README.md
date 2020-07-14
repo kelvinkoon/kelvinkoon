@@ -15,4 +15,4 @@ Particularly interested in robotics, distributed systems, and helping others!
 - Volunteering with STEM outreach events
 
 ### Ping me
-on either [Twitter](https://twitter.com/NotCelsiusDeg), [LinkedIn](https://www.linkedin.com/in/kelvinkoon/), or at http://kelvinkoon.github.io/.
+[Twitter](https://twitter.com/NotCelsiusDeg) | [LinkedIn](https://www.linkedin.com/in/kelvinkoon/) | [Website](http://kelvinkoon.github.io/)
