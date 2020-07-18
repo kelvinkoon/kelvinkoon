@@ -2,9 +2,9 @@
 
 I'm currently a 4th year :zap: Engineering student at the University of British Columbia. 
 
-Particularly interested in robotics, security, distributed systems, and helping others!
+Particularly interested in robotics, security, and distributed systems.
 
-### What I do
+### What I'm up to
 - Finishing up my internship at Huawei on the Mobile Security Lab R&D Team
 - Defending the SSL RoboCup title with [@UBC-Thunderbots](https://github.com/UBC-Thunderbots/Software)
 - Maintaining [babiri.net](https://www.babiri.net/#/) and working on new side-projects
