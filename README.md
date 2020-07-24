@@ -2,7 +2,7 @@
 
 I'm currently a 4th year :zap: Engineering student at the University of British Columbia. 
 
-Particularly interested in robotics, security, and helping others!
+Particularly interested in distributed systems, robotics, and helping others!
 
 ### What I'm up to
 - Finishing up my internship at Huawei on the Mobile Security Lab R&D Team
