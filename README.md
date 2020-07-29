@@ -6,6 +6,7 @@ Particularly interested in distributed systems, robotics, and helping others!
 
 ### What I'm up to
 - Finishing up my internship at Huawei on the Mobile Security Lab R&D Team
+- Working as an undergrad research assistant at [UBC NetSysLab](http://netsyslab.ece.ubc.ca/wiki/index.php/Networked_Systems_Laboratory)
 - Defending the SSL RoboCup title with [@UBC-Thunderbots](https://github.com/UBC-Thunderbots/Software)
 - Maintaining [babiri.net](https://www.babiri.net/#/) and working on new side-projects
 
@@ -15,4 +16,4 @@ Particularly interested in distributed systems, robotics, and helping others!
 - Volunteering with STEM outreach events
 
 ### Ping me
-[Twitter](https://twitter.com/NotCelsiusDeg) | [LinkedIn](https://www.linkedin.com/in/kelvinkoon/) | [Website](http://kelvinkoon.github.io/)
+[Twitter](https://twitter.com/NotCelsiusDeg) | [LinkedIn](https://www.linkedin.com/in/kelvinkoon/) | [Website](https://www.kelvinkoon.dev/)
