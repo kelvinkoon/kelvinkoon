@@ -1,8 +1,11 @@
 # Hey, I'm Kelvin! 👋
 
-I'm currently a 4th year :zap: Engineering student at the University of British Columbia. I previously interned at Huawei and Netgear as part of UBC's co-op program.
+I'm currently a 4th year :zap: Engineering student at the University of British Columbia. I previously interned at Huawei and Netgear as part of UBC's co-op program. I'm particularly interested in:
 
-Particularly interested in distributed systems, robotics, security, and helping others!
+- Distributed Systems
+- Security
+- Robotics
+- Helping others!
 
 ## What I'm up to
 - Working as an undergrad research assistant at [UBC NetSysLab](http://netsyslab.ece.ubc.ca/wiki/index.php/Networked_Systems_Laboratory)
