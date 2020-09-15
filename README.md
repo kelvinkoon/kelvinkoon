@@ -12,7 +12,7 @@ Particularly interested in distributed systems, robotics, security, and helping 
 ## When I'm not coding
 - Photographing hackathons and gaming tournaments
 - Figure skating at the nearest rink
-- Volunteering with STEM outreach events
+- Overseeing the new [ECESS](http://ubcecess.com/) mentorship program
 
 ## Ping me
 [Twitter](https://twitter.com/NotCelsiusDeg) | [LinkedIn](https://www.linkedin.com/in/kelvinkoon/) | [Website](https://www.kelvinkoon.dev/)
