@@ -15,7 +15,7 @@ I'm currently a 4th year :zap: Engineering student at the University of British 
 ## When I'm not coding
 - Photographing hackathons and gaming tournaments
 - Figure skating at the nearest rink
-- Overseeing the new [ECESS](http://ubcecess.com/) mentorship program
+- Helping bring up the new [ECESS](http://ubcecess.com/) mentorship program
 
 ## Ping me
 [Twitter](https://twitter.com/NotCelsiusDeg) | [LinkedIn](https://www.linkedin.com/in/kelvinkoon/) | [Website](https://www.kelvinkoon.dev/)
