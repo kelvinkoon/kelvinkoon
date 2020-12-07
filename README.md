@@ -1,6 +1,6 @@
 # Hey, I'm Kelvin! 👋
 
-I'm currently a 4th year :zap: Engineering student at the University of British Columbia. I previously interned at Huawei and Netgear as part of UBC's co-op program. I'm particularly interested in:
+I'm currently a 4th year :zap: Engineering student at the University of British Columbia. I'm an incoming Software Development Engineer at Amazon. I previously interned at Huawei and Netgear as part of UBC's co-op program. Particularly interested in:
 
 - Distributed Systems
 - Security
