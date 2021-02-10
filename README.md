@@ -1,7 +1,6 @@
 # Hey, I'm Kelvin! 👋
 
-4th year :zap: Engineering student @ubc. I also like figure skating, photography, and mentorship.
-
+4th year :zap: Engineering student @ubc. I like doing things and helping people.
 ```json
 
 {
@@ -11,14 +10,11 @@
     "security",
     "robotics @ubc-thunderbots"
   ],
-  "languages": [
-    "c++",
-    "python",
-    "go"
-  ]
+  "location": "Vancouver, Canada",
+  "name" "Kelvin Koon"
 }
 
 ```
 
 ## Ping me :postbox:
-[Twitter](https://twitter.com/NotCelsiusDeg) | [LinkedIn](https://www.linkedin.com/in/kelvinkoon/) | [Website](https://www.kelvinkoon.dev/)
+[Website](https://www.kelvinkoon.dev/) | [LinkedIn](https://www.linkedin.com/in/kelvinkoon/) | [Twitter](https://twitter.com/NotCelsiusDeg)
