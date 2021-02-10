@@ -11,7 +11,7 @@
     "robotics @ubc-thunderbots"
   ],
   "location": "Vancouver, Canada",
-  "name" "Kelvin Koon"
+  "name": "Kelvin Koon"
 }
 
 ```
