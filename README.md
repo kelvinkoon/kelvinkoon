@@ -1,6 +1,6 @@
 # Hey, I'm Kelvin! 👋
 
-4th year :zap: Engineering student @ubc. Interested in distributed systems, security, and robotics.
+4th year :zap: Engineering student @ubc. I also like figure skating, photography, and mentorship.
 
 ```json
 
@@ -11,10 +11,10 @@
     "security",
     "robotics @ubc-thunderbots"
   ],
-  "hobbies": [
-    "figure skating",
-    "photography",
-    "mentorship"
+  "languages": [
+    "c++",
+    "python",
+    "go"
   ]
 }
 
