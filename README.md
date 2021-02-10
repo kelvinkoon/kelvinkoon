@@ -1,6 +1,6 @@
 # Hey, I'm Kelvin! 👋
 
-4th year :zap: Engineering student at UBC. I like doing things and helping people.
+:zap: eng '21 @ubc. doing things and helping people.
 ```json
 
 {
