@@ -1,21 +1,24 @@
 # Hey, I'm Kelvin! 👋
 
-I'm currently a 4th year :zap: Engineering student at the University of British Columbia with experience in both research and industry. I previously interned at Huawei and Netgear as part of UBC's co-op program. Particularly interested in:
+4th year :zap: Engineering student @ubc. Interested in distributed systems, security, and robotics.
 
-- Distributed Systems
-- Security
-- Robotics
-- Helping others!
+```json
 
-## What I'm up to
-- Working as an undergrad research assistant at [UBC NetSysLab](http://netsyslab.ece.ubc.ca/wiki/index.php/Networked_Systems_Laboratory)
-- Defending the SSL RoboCup title with [@UBC-Thunderbots](https://github.com/UBC-Thunderbots/Software)
-- Maintaining [babiri.net](https://www.babiri.net/#/) and working on new side-projects
+{
+  "currently": "ubc netsyslab + incoming @amazon",
+  "interests": [
+    "distributed systems",
+    "security",
+    "robotics @ubc-thunderbots"
+  ],
+  "hobbies": [
+    "figure skating",
+    "photography",
+    "mentorship"
+  ]
+}
 
-## When I'm not coding
-- Photographing hackathons and gaming tournaments
-- Figure skating at the nearest rink
-- Helping bring up the new [ECESS](http://ubcecess.com/) mentorship program
+```
 
-## Ping me
+## Ping me :postbox:
 [Twitter](https://twitter.com/NotCelsiusDeg) | [LinkedIn](https://www.linkedin.com/in/kelvinkoon/) | [Website](https://www.kelvinkoon.dev/)
