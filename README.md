@@ -1,17 +1,19 @@
 # Hey, I'm Kelvin! 👋
 
 :zap: eng '21 @ubc. doing things and helping people.
+
+c++, python, golang
 ```json
 
 {
   "currently": "ubc netsyslab + incoming @amazon",
-  "interests": [
+  "interests": 
+  [
     "distributed systems",
     "security",
     "robotics @ubc-thunderbots"
   ],
-  "location": "Vancouver, Canada",
-  "name": "Kelvin Koon"
+  "location": "Canada"
 }
 
 ```
