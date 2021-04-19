@@ -6,7 +6,7 @@ c++, python, golang
 ```json
 
 {
-  "currently": "ubc netsyslab + incoming @amazon",
+  "currently": "ubc netsyslab + incoming @aws",
   "interests": 
   [
     "distributed systems",
