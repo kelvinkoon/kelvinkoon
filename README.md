@@ -1,6 +1,7 @@
 # Hey, I'm Kelvin! 👋
 
 :zap: eng '21 @ubc. thinking too much, doing cool things, and helping people.
+Currently working on [AWS Relational Database Service](https://aws.amazon.com/rds/) and attempting [Cryptopals](https://cryptopals.com/) in my free time.
 
 c++, python, golang
 ```json
