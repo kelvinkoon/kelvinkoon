@@ -1,6 +1,6 @@
 # Hey, I'm Kelvin! 👋
 
-:zap: eng '21 @ubc. doing things and helping people.
+:zap: eng '21 @ubc. thinking too much, doing cool things, and helping people.
 
 c++, python, golang
 ```json
@@ -11,7 +11,7 @@ c++, python, golang
   [
     "distributed systems",
     "security",
-    "robotics @ubc-thunderbots"
+    "robotics"
   ],
   "location": "Canada"
 }
