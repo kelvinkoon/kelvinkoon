@@ -1,8 +1,6 @@
 # Hey, I'm Kelvin! 👋
 
-:zap: eng '21 @ubc. thinking too much, doing cool things, and helping people.
-
-Currently working on [AWS Relational Database Service](https://aws.amazon.com/rds/) and attempting [Cryptopals](https://cryptopals.com/) in my free time.
+:zap: eng '21 @ubc. doing cool things and helping people.
 
 c++, python, golang
 ```json
@@ -15,7 +13,13 @@ c++, python, golang
     "security",
     "robotics"
   ],
-  "location": "Canada"
+  "location": "Canada",
+  "hobbies": 
+  [
+    "figure skating",
+    "photography",
+    "STEM outreach"
+  ]
 }
 
 ```
