@@ -2,24 +2,18 @@
 
 :zap: eng '21 @ubc. doing cool things and helping people.
 
-c++, python, golang
 ```json
 
 {
   "currently": "@aws",
+  "incoming": "@teslamotors",
   "interests": 
   [
     "distributed systems",
     "security",
     "robotics"
   ],
-  "location": "Canada",
-  "hobbies": 
-  [
-    "figure skating",
-    "photography",
-    "STEM outreach"
-  ]
+  "location": "Canada"
 }
 
 ```
