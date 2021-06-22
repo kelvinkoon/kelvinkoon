@@ -1,18 +1,16 @@
 # Hey, I'm Kelvin! 👋
 
-:zap: eng '21 @ubc. doing cool things and helping people.
+⚡ eng '21 @ubc. doing cool things and helping people.
+
+interested in distributed systems, security, and robotics. 
+
+> outside of work, currently completing CryptoPals and planning the babiri.net rewrite.
 
 ```json
 
 {
+  "education": "ubc ece '21",
   "currently": "@aws",
-  "incoming": "@teslamotors",
-  "interests": 
-  [
-    "distributed systems",
-    "security",
-    "robotics"
-  ],
   "location": "Canada"
 }
 
