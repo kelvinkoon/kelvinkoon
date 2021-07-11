@@ -4,7 +4,7 @@
 
 interested in distributed systems, security, and robotics. 
 
-> currently completing CryptoPals and planning the babiri.net rewrite.
+> currently rewriting my personal website and completing CryptoPals.
 
 ```json
 
