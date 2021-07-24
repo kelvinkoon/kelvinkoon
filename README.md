@@ -12,10 +12,8 @@ interested in distributed systems, security, and robotics.
 
 {
   "education": "ubc ece '21",
-  "work": {
-    "@aws",         // currently
-    "@teslamotors"  // incoming
-  }
+  "currently": "@aws",
+  "incoming": "@teslamotors",
   "location": "Canada"
 }
 
