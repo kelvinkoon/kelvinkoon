@@ -4,13 +4,18 @@
 
 interested in distributed systems, security, and robotics. 
 
-> currently rewriting my personal website and completing CryptoPals.
+> currently: rewriting personal website
+
+> soon: cryptopals, stock ticker, babiri.net rewrite
 
 ```json
 
 {
   "education": "ubc ece '21",
-  "currently": "@aws",
+  "work": {
+    "@aws",         // currently
+    "@teslamotors"  // incoming
+  }
   "location": "Canada"
 }
 
