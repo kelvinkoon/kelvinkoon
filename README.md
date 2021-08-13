@@ -3,7 +3,7 @@
 ⚡ eng '21 @ubc. software / firmware. doing cool things and helping people.
 
 interested in distributed systems, security, and robotics. 
-occassionally figure skates and takes photos.
+occasionally figure skates and takes photos.
 
 > project bucket list: cryptopals, stock ticker, babiri.net rewrite
 
