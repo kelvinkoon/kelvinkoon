@@ -3,17 +3,16 @@
 ⚡ eng '21 @ubc. software / firmware. doing cool things and helping people.
 
 interested in distributed systems, security, and robotics. 
+occassionally figure skates and takes photos.
 
-> currently: rewriting personal website
-
-> soon: cryptopals, stock ticker, babiri.net rewrite
+> project bucket list: cryptopals, stock ticker, babiri.net rewrite
 
 ```json
 
 {
   "education": "ubc ece '21",
-  "incoming": "@teslamotors",
-  "location": "Canada"
+  "incoming": "firmware intern @teslamotors",
+  "location": "canada"
 }
 
 ```
