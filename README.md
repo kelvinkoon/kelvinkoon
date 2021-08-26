@@ -5,8 +5,6 @@
 interested in distributed systems, security, and robotics. 
 occasionally figure skates and takes photos.
 
-> project bucket list: cryptopals, stock ticker, babiri.net rewrite
-
 ```json
 
 {
