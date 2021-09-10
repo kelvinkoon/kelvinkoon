@@ -9,7 +9,7 @@ occasionally figure skates and takes photos.
 
 {
   "education": "ubc ece '21",
-  "incoming": "firmware intern @teslamotors",
+  "currently": "firmware @teslamotors",
   "location": "canada"
 }
 
