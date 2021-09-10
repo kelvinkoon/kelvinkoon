@@ -10,7 +10,7 @@ occasionally figure skates and takes photos.
 {
   "education": "ubc ece '21",
   "currently": "firmware @teslamotors",
-  "location": "canada"
+  "location": "bay area"
 }
 
 ```
