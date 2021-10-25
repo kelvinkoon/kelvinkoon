@@ -3,7 +3,8 @@
 ⚡ eng '21 @ubc. software / firmware. doing cool things and helping people.
 
 interested in distributed systems, security, and robotics. 
-occasionally figure skates and takes photos.
+
+usually bouldering, occasionally figure skates and takes photos.
 
 ```json
 
