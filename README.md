@@ -1,6 +1,6 @@
 ## Hey, I'm Kelvin! 👋
 
-I'm an incoming Software Development Engineer at Amazon. I graduated from the University of British Columbia, specializing in Electrical / Computer Engineering. I'm interested in distributed systems, security, and robotics. In my spare time, I also enjoy bouldering, figure skating, or volunteering with STEM outreach.
+I'm an incoming Software Development Engineer at Amazon. I graduated from the University of British Columbia, specializing in Electrical / Computer Engineering. I'm interested in distributed systems, security, and robotics. In my spare time, I also enjoy bouldering, figure skating, and volunteering with STEM outreach.
 
 > How lucky I am to have something that makes saying goodbye so hard - Winnie the Pooh 🎈
 
