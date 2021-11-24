@@ -1,8 +1,9 @@
-## Hey, I'm Kelvin! 👋
-
-I'm an incoming Software Development Engineer at Amazon. I graduated from the University of British Columbia, specializing in Electrical / Computer Engineering. I'm interested in distributed systems, security, and robotics. In my spare time, I also enjoy bouldering, figure skating, and volunteering with STEM outreach.
-
-> How lucky I am to have something that makes saying goodbye so hard - Winnie the Pooh 🎈
-
-## Ping me :postbox:
-[Website](https://www.kelvinkoon.dev/) | [LinkedIn](https://www.linkedin.com/in/kelvinkoon/) | [Twitter](https://twitter.com/NotCelsiusDeg)
+<p>
+  <samp>
+    👋 Hey, I'm Kelvin! </br></br>
+    <a href="https://ece.ubc.ca/">ubc ece</a> '21.</br>
+    currently @ <b><a href="https://www.tesla.com/">tesla</a></b>. previously @ <b><a href="https://aws.amazon.com/">amazon</a></b> and <b><a href="https://www.netgear.com/">netgear</a></b>.</br>
+    distributed systems, security, robotics.</br></br>
+    <a href="https://www.kelvinkoon.dev/">Website</a> | <a href="https://www.linkedin.com/in/kelvinkoon/">LinkedIn</a> | <a href="https://twitter.com/NotCelsiusDeg">Twitter</a>
+  </samp>
+</p>
