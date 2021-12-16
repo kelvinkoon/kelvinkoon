@@ -2,7 +2,7 @@
   <samp>
     👋 Hey, I'm Kelvin! </br></br>
     <a href="https://ece.ubc.ca/">ubc ece</a> '21.</br>
-    currently @ <b><a href="https://www.tesla.com/">tesla</a></b>. previously @ <b><a href="https://aws.amazon.com/">amazon</a></b> and <b><a href="https://www.netgear.com/">netgear</a></b>.</br>
+    incoming @ <b><a href="https://aws.amazon.com/">amazon</a></b>. previously @ <b><a href="https://www.tesla.com/">tesla</a></b> and <b><a href="https://www.netgear.com/">netgear</a></b>.</br>
     distributed systems, security, robotics.</br></br>
     <a href="https://www.kelvinkoon.dev/">Website</a> | <a href="https://www.linkedin.com/in/kelvinkoon/">LinkedIn</a> | <a href="https://twitter.com/NotCelsiusDeg">Twitter</a>
   </samp>
