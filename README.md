@@ -2,8 +2,19 @@
   <samp>
     👋 Heyo, I'm Kelvin! </br></br>
     <a href="https://ece.ubc.ca/">ubc ece</a> '21.</br>
-    sw dev eng @ <b><a href="https://aws.amazon.com/">amazon</a></b>. previously @ <b><a href="https://www.tesla.com/">tesla</a></b> and <b><a href="https://www.netgear.com/">netgear</a></b>.</br>
-    security and robotics.</br></br>
+    sw dev eng @ <b><a href="https://aws.amazon.com/">amazon</a></b>. prev @ <b><a href="https://www.tesla.com/">tesla</a></b>.</br>
+    security and robotics.</br>
+    <details>
+  <summary><b>interests</b></summary>
+  <br>
+  <samp>
+  <ul>
+    <li>rock climbing, figure skating. human movement.</li>
+    <li>STEM outreach. accessiblility.</li>
+    <li>sleeping.</li>
+  </ul>
+  </samp>
+</details>
     <a href="https://www.kelvinkoon.dev/">Website</a> | <a href="https://www.linkedin.com/in/kelvinkoon/">LinkedIn</a> | <a href="https://twitter.com/NotCelsiusDeg">Twitter</a>
   </samp>
 </p>
