@@ -1,15 +1,15 @@
 <p>
   <samp>
     👋 Heyo, I'm Kelvin! </br></br>
-    <a href="https://ece.ubc.ca/">ubc ece</a> '21.</br>
+    <a href="https://ece.ubc.ca/">ubc ece</a> grad.</br>
     sw dev eng @ <b><a href="https://aws.amazon.com/">amazon</a></b>. prev @ <b><a href="https://www.tesla.com/">tesla</a></b>.</br>
-    security and robotics.</br>
+    security, robotics, and stats.</br>
     <details>
   <summary><b>interests</b></summary>
   <br>
   <samp>
   <ul>
-    <li>rock climbing, figure skating. human movement.</li>
+    <li>rock climbing, figure skating.</li>
     <li>STEM outreach. accessiblility.</li>
     <li>sleeping.</li>
   </ul>
