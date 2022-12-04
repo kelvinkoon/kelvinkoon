@@ -10,7 +10,7 @@
   <samp>
   <ul>
     <li>rock climbing, figure skating.</li>
-    <li>STEM outreach. accessiblility.</li>
+    <li>STEM outreach, accessiblility.</li>
     <li>sleeping.</li>
   </ul>
   </samp>
