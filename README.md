@@ -1,4 +1,3 @@
-working: cloud infra, distributed systems, security.</br>
-building: competitive pokémon data platform.</br>
-dancing: contemporary, jazz.</br>
-caffeinating: yes.</br>
+work: *cloud infra, distributed systems, security*</br>
+building: *competitive pokémon data platform*</br>
+creating: *dance, photography, coffee shop zine shot on film*</br>
