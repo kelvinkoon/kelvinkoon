@@ -1,1 +1,2 @@
-previously working on cloud infrastructure for internal security. exploring esp32 firmware and dance during my break.
+cloud infrastructure, ai, security, robotics.
+dancer, climber, figure skater, photographer, coffee shop enjoyer.
